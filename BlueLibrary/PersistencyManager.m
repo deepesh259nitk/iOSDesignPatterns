@@ -7,6 +7,13 @@
 
 #import "PersistencyManager.h"
 
+@interface PersistencyManager () {
+    // an array of all albums
+    NSMutableArray *albums;
+}
+@end
+
 @implementation PersistencyManager
+
 
 @end

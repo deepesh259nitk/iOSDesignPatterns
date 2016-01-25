@@ -188,7 +188,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = "Eli Ganem";
+				ORGANIZATIONNAME = "Deepesh ";
 			};
 			buildConfigurationList = 450EECB717A9B03A00957F62 /* Build configuration list for PBXProject "BlueLibrary" */;
 			compatibilityVersion = "Xcode 3.2";
