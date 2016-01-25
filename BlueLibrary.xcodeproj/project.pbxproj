@@ -22,6 +22,7 @@
 		48BCD4C71C5582A9008B19D6 /* AlbumView.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BCD4C61C5582A9008B19D6 /* AlbumView.m */; };
 		48BCD4CF1C559803008B19D6 /* LibraryAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BCD4CE1C559803008B19D6 /* LibraryAPI.m */; };
 		48BCD4D21C559AD9008B19D6 /* PersistencyManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BCD4D11C559AD9008B19D6 /* PersistencyManager.m */; };
+		48BCD4D81C55AE87008B19D6 /* Album+TableRepresentation.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BCD4D71C55AE87008B19D6 /* Album+TableRepresentation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,8 @@
 		48BCD4CE1C559803008B19D6 /* LibraryAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibraryAPI.m; sourceTree = "<group>"; };
 		48BCD4D01C559AD9008B19D6 /* PersistencyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersistencyManager.h; sourceTree = "<group>"; };
 		48BCD4D11C559AD9008B19D6 /* PersistencyManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersistencyManager.m; sourceTree = "<group>"; };
+		48BCD4D61C55AE87008B19D6 /* Album+TableRepresentation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Album+TableRepresentation.h"; sourceTree = "<group>"; };
+		48BCD4D71C55AE87008B19D6 /* Album+TableRepresentation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Album+TableRepresentation.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +99,8 @@
 		450EECC517A9B03A00957F62 /* BlueLibrary */ = {
 			isa = PBXGroup;
 			children = (
+				48BCD4D61C55AE87008B19D6 /* Album+TableRepresentation.h */,
+				48BCD4D71C55AE87008B19D6 /* Album+TableRepresentation.m */,
 				48BCD4CC1C55962B008B19D6 /* Controller */,
 				48BCD4CB1C559624008B19D6 /* View */,
 				48BCD4CA1C55961D008B19D6 /* Model */,
@@ -232,6 +237,7 @@
 				48BCD4D21C559AD9008B19D6 /* PersistencyManager.m in Sources */,
 				48BCD4CF1C559803008B19D6 /* LibraryAPI.m in Sources */,
 				450EECD917A9B03A00957F62 /* ViewController.m in Sources */,
+				48BCD4D81C55AE87008B19D6 /* Album+TableRepresentation.m in Sources */,
 				48BCD4C41C5581A3008B19D6 /* Album.m in Sources */,
 				450EECE517A9B05E00957F62 /* HTTPClient.m in Sources */,
 			);
